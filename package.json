@@ -1,0 +1,14 @@
+{
+    "name": "atomic-habit-tracker",
+    "description": "A simple Habit Tracker based on Atomic Habits",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+    },
+    "devDependencies": {
+        "jest": "^24.7.1"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
